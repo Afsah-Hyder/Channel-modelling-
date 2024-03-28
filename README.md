@@ -14,6 +14,6 @@ This project investigates the impact of various channel models on communication 
 * SNR vs. BER curve creation
 
 ## Reference
-[Multipath Fading Channel](https://www.mathworks.com/help/comm/ug/multipath-fading-channel.html)  
+[Multipath Fading Channel]([https://www.mathworks.com/help/comm/ug/multipath-fading-channel.html](https://www.mathworks.com/help/comm/ug/multipath-fading-channel-1.html)  
 (We used this resource as a starting point for understanding multipath fading channels)
 
