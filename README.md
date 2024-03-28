@@ -12,3 +12,8 @@ This project investigates the impact of various channel models on communication 
 * Eye diagram generation
 * Constellation diagram plotting
 * SNR vs. BER curve creation
+
+## Reference
+[Multipath Fading Channel](https://www.mathworks.com/help/comm/ug/multipath-fading-channel.html)  
+(We used this resource as a starting point for understanding multipath fading channels)
+
